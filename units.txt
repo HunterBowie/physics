@@ -1,0 +1,5 @@
+mass: pygrams
+velocity: pixels/second
+acceleration: pixels/second/second
+density: pygrams/pixel
+force: pytons -> cause a 1 pygram object to accelerate at 1 pixel/second/second
