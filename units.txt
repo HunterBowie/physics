@@ -1,5 +1,11 @@
+1 pixel == 10 centimeters
+
+9.810 meters per second per second
+981 centimeter per second per second
+98.1 pixels per second per second
+
 mass: pygrams
 velocity: pixels/second
 acceleration: pixels/second/second
 density: pygrams/pixel
-force: pytons -> cause a 1 pygram object to accelerate at 1 pixel/second/second
+force: pyton -> cause a 1000 pygram object to accelerate at 10 pixel/second/second

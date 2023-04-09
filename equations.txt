@@ -1,2 +1,8 @@
 force = mass * acceleration
-force / mass = acceleration
+acceleration = force / mass
+
+velocity_final_1 = (mass_1-mass_2) / (mass_1+mass_2) * velocity_initial_1 + (2*mass_2 / (mass_1+mass_2)) * vecocity_initial_2
+velocity_final_2 = (mass_1-mass_2) / (mass_1+mass_2) * velocity_initial_1 + (2*mass_2 / (mass_1+mass_2)) * vecocity_initial_1
+
+
+

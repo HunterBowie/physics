@@ -1,0 +1,34 @@
+
+
+
+Body
+composes Hitbox, BodyType
+---
++ x: float
++ y: float
++ hitbox: Hitbox
++ density: float
++ body_type: BodyType = BodyType.DYNAMIC
+---
+---
+
+Hitbox
+---
+---
++ __init__()
++ collided(hitbox: Hitbox): bool
+---
+
+
+
+Space
+---
++ bodies: list[Body]
+---
++ step(delta: float): None
+---
+
+
+
+
+
